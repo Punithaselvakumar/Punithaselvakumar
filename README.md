@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Punithaselvakumar
+- 👋 Hi, I’m Punitha Selvakumar
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently Studying Final yr CSE
 - 📫 How to reach me punithaselvakumar123@gmail.com
